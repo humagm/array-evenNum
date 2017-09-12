@@ -1,0 +1,10 @@
+C:\Users\10011027\desktop\array-evenNum\obj\Debug\netcoreapp2.0\array-evenNum.csproj.CoreCompileInputs.cache
+C:\Users\10011027\desktop\array-evenNum\obj\Debug\netcoreapp2.0\array-evenNum.AssemblyInfoInputs.cache
+C:\Users\10011027\desktop\array-evenNum\obj\Debug\netcoreapp2.0\array-evenNum.AssemblyInfo.cs
+C:\Users\10011027\desktop\array-evenNum\bin\Debug\netcoreapp2.0\array-evenNum.deps.json
+C:\Users\10011027\desktop\array-evenNum\bin\Debug\netcoreapp2.0\array-evenNum.runtimeconfig.json
+C:\Users\10011027\desktop\array-evenNum\bin\Debug\netcoreapp2.0\array-evenNum.runtimeconfig.dev.json
+C:\Users\10011027\desktop\array-evenNum\bin\Debug\netcoreapp2.0\array-evenNum.dll
+C:\Users\10011027\desktop\array-evenNum\bin\Debug\netcoreapp2.0\array-evenNum.pdb
+C:\Users\10011027\desktop\array-evenNum\obj\Debug\netcoreapp2.0\array-evenNum.dll
+C:\Users\10011027\desktop\array-evenNum\obj\Debug\netcoreapp2.0\array-evenNum.pdb
